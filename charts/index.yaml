@@ -25,4 +25,13 @@ entries:
       urls:
         - https://github.com/ndviet/test-scaling-grid/releases/download/23.9.26/scalable-selenium-grid-23.9.26.tgz
       version: 23.9.26
-generated: "2023-10-19T21:05:33.436122012Z"
+  webdav:
+    - apiVersion: v2
+      name: webdav
+      description: A Helm chart for TestOps WebDAV Server
+      type: application
+      version: 4.3.0
+      urls:
+        - https://github.com/ndviet/test-webdav-docker/releases/download/4.3.0/webdav-4.3.0.tgz
+      appVersion: "4.3.0"
+generated: "2023-10-21T21:05:33.436122012Z"
