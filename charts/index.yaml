@@ -2,6 +2,14 @@ apiVersion: v1
 entries:
   scalable-selenium-grid:
     - apiVersion: v2
+      appVersion: 23.10.24
+      description: A Helm chart for Kubernetes
+      name: scalable-selenium-grid
+      type: application
+      urls:
+        - https://github.com/ndviet/test-scaling-grid/releases/download/23.10.24/scalable-selenium-grid-23.10.24.tgz
+      version: 23.10.24
+    - apiVersion: v2
       appVersion: 23.10.19
       description: A Helm chart for Kubernetes
       name: scalable-selenium-grid
@@ -34,4 +42,4 @@ entries:
       urls:
         - https://github.com/ndviet/test-webdav-docker/releases/download/4.3.0/webdav-4.3.0.tgz
       appVersion: "4.3.0"
-generated: "2023-10-21T21:05:33.436122012Z"
+generated: "2023-10-24T21:05:33.436122012Z"
