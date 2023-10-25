@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   scalable-selenium-grid:
     - apiVersion: v2
+      appVersion: 23.10.25
+      description: A Helm umbrella chart for creating ecosystem of Autoscaling Selenium Grid in Kubernetes
+      icon: https://github.com/ndviet/ndviet.github.io/raw/master/img/logo.ico
+      name: scalable-selenium-grid
+      type: application
+      urls:
+        - https://github.com/ndviet/test-scaling-grid/releases/download/23.10.25/scalable-selenium-grid-23.10.25.tgz
+      version: 23.10.25
+    - apiVersion: v2
       appVersion: 23.10.24
-      description: A Helm chart for Kubernetes
+      description: A Helm umbrella chart for creating ecosystem of Autoscaling Selenium Grid in Kubernetes
+      icon: https://github.com/ndviet/ndviet.github.io/raw/master/img/logo.ico
       name: scalable-selenium-grid
       type: application
       urls:
@@ -11,7 +21,8 @@ entries:
       version: 23.10.24
     - apiVersion: v2
       appVersion: 23.10.19
-      description: A Helm chart for Kubernetes
+      description: A Helm umbrella chart for creating ecosystem of Autoscaling Selenium Grid in Kubernetes
+      icon: https://github.com/ndviet/ndviet.github.io/raw/master/img/logo.ico
       name: scalable-selenium-grid
       type: application
       urls:
@@ -19,7 +30,8 @@ entries:
       version: 23.10.19
     - apiVersion: v2
       appVersion: 23.10.12
-      description: A Helm chart for Kubernetes
+      description: A Helm umbrella chart for creating ecosystem of Autoscaling Selenium Grid in Kubernetes
+      icon: https://github.com/ndviet/ndviet.github.io/raw/master/img/logo.ico
       name: scalable-selenium-grid
       type: application
       urls:
@@ -27,7 +39,8 @@ entries:
       version: 23.10.12
     - apiVersion: v2
       appVersion: 23.9.26
-      description: A Helm chart for Kubernetes
+      description: A Helm umbrella chart for creating ecosystem of Autoscaling Selenium Grid in Kubernetes
+      icon: https://github.com/ndviet/ndviet.github.io/raw/master/img/logo.ico
       name: scalable-selenium-grid
       type: application
       urls:
@@ -36,10 +49,11 @@ entries:
   webdav:
     - apiVersion: v2
       name: webdav
-      description: A Helm chart for TestOps WebDAV Server
+      description: A Helm chart for creating TestOps WebDAV Server in Kubernetes
+      icon: https://github.com/ndviet/ndviet.github.io/raw/master/img/logo.ico
       type: application
       version: 4.3.0
       urls:
         - https://github.com/ndviet/test-webdav-docker/releases/download/4.3.0/webdav-4.3.0.tgz
       appVersion: "4.3.0"
-generated: "2023-10-24T21:05:33.436122012Z"
+generated: "2023-10-25T04:04:04.19960000Z"
