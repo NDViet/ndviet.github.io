@@ -71,6 +71,6 @@ entries:
       name: selenium-grid
       type: application
       urls:
-        - https://github.com/ndviet/docker-selenium/releases/download/ffmpeg-6.0-20231025/selenium-grid-0.23.0.tgz
+        - https://github.com/ndviet/test-scaling-grid/releases/download/23.10.25/selenium-grid-0.23.0.tgz
       version: 0.23.0
 generated: "2023-10-26T04:04:04.19960000Z"
