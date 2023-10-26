@@ -58,7 +58,7 @@ entries:
       appVersion: "4.3.0"
   selenium-grid:
     - apiVersion: v2
-      appVersion: 4.13.0-20231004
+      appVersion: 4.14.1-20231025
       created: "2023-10-04T21:05:33.435618298Z"
       dependencies:
         - condition: autoscaling.enabled
@@ -71,6 +71,6 @@ entries:
       name: selenium-grid
       type: application
       urls:
-        - https://github.com/ndviet/docker-selenium/releases/download/ffmpeg-6.0-20231025/selenium-grid-0.22.0.tgz
-      version: 0.22.0
-generated: "2023-10-25T04:04:04.19960000Z"
+        - https://github.com/ndviet/docker-selenium/releases/download/ffmpeg-6.0-20231025/selenium-grid-0.23.0.tgz
+      version: 0.23.0
+generated: "2023-10-26T04:04:04.19960000Z"
